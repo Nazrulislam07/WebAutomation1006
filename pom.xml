@@ -32,6 +32,7 @@
 			<artifactId>cucumber-java</artifactId>
 			<version>1.2.4</version>
 		</dependency>
+		
 		<dependency>
 			<groupId>info.cukes</groupId>
 			<artifactId>cucumber-junit</artifactId>
@@ -44,6 +45,12 @@
 			<version>1.2.0</version>
 		</dependency>
 
+		<dependency>
+			<groupId>com.github.mkolisnyk</groupId>
+			<artifactId>cucumber-reports</artifactId>
+			<version>1.0.7</version>
+		</dependency>
+		
 	</dependencies>
 
 
